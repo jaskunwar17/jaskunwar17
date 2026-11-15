@@ -1,6 +1,6 @@
 # Hi, I’m Jaskunwar Singh — Cybersecurity Student
 
-- 🎓 Bachelor of IT (Cyber Security), Federation University — Student ID: 30470124
+- 🎓 Bachelor of IT (Cyber Security), Federation University
 - 🔎 Interests: SOC, Incident Response, Threat Intelligence, Cloud Security
 - 🧰 Tools: Wireshark · Splunk · Zeek · Nmap · Burp · YARA · VirusTotal · CyberChef · AWS IAM
 - 🧪 Labs/CTFs: CyberDefenders · TryHackMe · Blue Team Labs
